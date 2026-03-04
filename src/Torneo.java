@@ -14,18 +14,21 @@ public class Torneo {
         }
         return luchadorInvocado
     }
-/*
-    public boolean encontrarPlazaLibre(){
 
-        int estadioLibre = -1;
+    private int encontrarPlazaLibre(){
+
+        int estadioLibre = 0;
         boolean desterrandoDimension = true;
 
         for (int i = 0;i<MAX_PARTICIPANTES && desterrandoDimension;i++){
-            if ()
+            if (participantes[i] ==null){
+                estadioLibre = i;
+                desterrandoDimension = false;
+            }
         }
-
+        return estadioLibre;
     }
-*/
+
     public String inscribirLuchador(Luchador l){
 
     }
