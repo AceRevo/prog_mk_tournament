@@ -1,4 +1,4 @@
-![Nombre descriptivo](https://preview.redd.it/x8r0by3kn0od1.gif?width=400&format=mp4&s=0df12d6def6111635a82cc5f464659538f2dbfa9)
+<img src="https://i.imgur.com/dEnYb8s.gif" width="500" alt="Descripción del GIF">
 
 ## Mortal Kombat: Tournament Management System
 
