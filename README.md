@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/dEnYb8s.gif" width="1000" alt="Descripción del GIF">
+<p align="center">
+  <img src="https://i.imgur.com/dEnYb8s.gif" width="750" alt="Descripción del GIF">
+</p>
 
 ## Mortal Kombat: Tournament Management System
 
