@@ -1,4 +1,6 @@
-# 🐉 Mortal Kombat: Tournament Management System
+<img src="https://preview.redd.it/x8r0by3kn0od1.gif?width=400&format=mp4&s=0df12d6def6111635a82cc5f464659538f2dbfa9" width="400" alt="Descripción del GIF">
+
+## Mortal Kombat: Tournament Management System
 
 Este proyecto es un sistema de gestión de luchadores diseñado para practicar los fundamentos de la **Programación Orientada a Objetos (POO)** en Java. El sistema permite administrar las inscripciones de guerreros para el torneo de Earthrealm, controlando cupos limitados y validando identidades únicas.
 
